@@ -1,0 +1,2 @@
+# StudyCase_AnimeRecommendation
+Kumpulan data ini berisi informasi mengenai data preferensi dari 73.516 pengguna di 12.294 anime. Setiap pengguna dapat menambahkan anime ke daftar anime yang selesai ditonton dan memberikannya rating. kumpulan data ini adalah kompilasi dari peringkat-peringkat tersebut. Dengan membuat model rekomendasi ini diharapkan orang-orang yang memiliki ketertarikan terhadap anime bisa dengan mudah menemukan anime-anime lain yang sesuai dengan tipikal anime yang disukainya.
